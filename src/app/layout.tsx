@@ -4,6 +4,7 @@ import { Inter } from "next/font/google";
 import { MantineProvider } from "@mantine/core";
 import "@mantine/core/styles.css";
 
+
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
